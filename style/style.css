@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body {
+    background: linear-gradient(to right, #C9D6FF, #E2E2E2);
+    font-family: "Shadows Into Light";
+    font-size: xx-large;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav {
+    list-style-type: none;
+
+
+}
